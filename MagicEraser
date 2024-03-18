@@ -1,12 +1,4 @@
 #Magic Eraser
-#!/usr/bin/env python
-
-'''
-"Magic Eraser" Computer Vision Project - Main function
-Author: William Spies
-Date: December 16th, 2017 (2017/12/16)
-Revision 3
-'''
 
 import cv2
 import imageTiling
